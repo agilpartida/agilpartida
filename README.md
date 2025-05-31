@@ -1,4 +1,4 @@
-# Hi 👋🏻, I'm Alejandro
+# Hi, I'm Alejandro 👋🏻
 
 📈 Passionate about data, strategy, and process automation.  
 🎓 Marketing and Market Research graduate, currently pursuing a Master's in Business Intelligence.  
